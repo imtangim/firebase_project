@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844565184418",
+    "project_id": "fir-authenter",
+    "storage_bucket": "fir-authenter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844565184418:android:e56fcfa791b9f48cd3fcfb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_atuhenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844565184418-cdf1dldv9gco1vjduufvdlvh4nap0493.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3v0Ps5vmhR8u6lq-FENiynhqdfugUJro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844565184418-cdf1dldv9gco1vjduufvdlvh4nap0493.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
